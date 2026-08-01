@@ -1,0 +1,940 @@
+[
+  {
+  "dia": "5 d'agost · Dimecres",
+  "ciutat": "Barcelona ➜ Viena",
+  "activitats": [
+    {
+      "hora": "08:00",
+      "titol": "Preparatius del viatge",
+      "descripcio": "Sortida cap a l'aeroport i facturació."
+    },
+    {
+      "hora": "11:35",
+      "titol": "Vol cap a Viena",
+      "descripcio": "Vol segons la reserva del viatge."
+    },
+    {
+      "hora": "15:30",
+      "titol": "Arribada a l'hotel",
+      "descripcio": "Check-in al Mercure Vienna First.",
+      "links": [
+        {
+          "text": "🏨 Hotel",
+          "url": "https://www.mercureviennafirst.at/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Mercure+Vienna+First"
+        }
+      ]
+    },
+    {
+      "hora": "17:00",
+      "titol": "Passeig pel centre històric",
+      "descripcio": "Stephansplatz, Graben i voltants.",
+      "links": [
+        {
+          "text": "🗺️ Ruta",
+          "url": "https://maps.google.com/?q=Stephansplatz+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "20:00",
+      "titol": "Sopar",
+      "descripcio": "Restaurant previst al planning.",
+      "links": [
+        {
+          "text": "🍴 Restaurants propers",
+          "url": "https://maps.google.com/search/restaurants+near+Stephansplatz+Vienna"
+        }
+      ]
+    }
+  ]
+},
+
+  {
+  "dia": "6 d'agost · Dijous",
+  "ciutat": "Viena",
+  "activitats": [
+    {
+      "hora": "07:45",
+      "titol": "Amunt!",
+      "descripcio": "Preparar-se per començar el dia."
+    },
+    {
+      "hora": "08:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans del Free Tour."
+    },
+    {
+      "hora": "10:00",
+      "titol": "Free Tour pel centre de Viena",
+      "descripcio": "El tour comença a les 10:15 davant la porta principal de la Catedral de Sant Esteve. Cal ser-hi 15 minuts abans. Des de l'hotel hi ha uns 8 minuts caminant. El tour dura aproximadament 2,5 hores.",
+      "links": [
+        {
+          "text": "🎫 Ticket",
+          "url": "https://www.civitatis.com/"
+        },
+        {
+          "text": "🗺️ Ruta",
+          "url": "https://maps.google.com/?q=Stephansdom+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "13:30",
+      "titol": "Dinar a Figlmüller",
+      "descripcio": "Restaurant situat a uns 5 minuts caminant de la Catedral.",
+      "links": [
+        {
+          "text": "🍴 Reserva",
+          "url": "https://www.figlmueller.at/"
+        },
+        {
+          "text": "🗺️ Ruta",
+          "url": "https://maps.google.com/?q=Figlmüller+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "16:00",
+      "titol": "Visita a l'Òpera Estatal de Viena",
+      "descripcio": "Entrada segons la reserva.",
+      "links": [
+        {
+          "text": "🎫 Entrades",
+          "url": "https://www.wiener-staatsoper.at/"
+        },
+        {
+          "text": "🗺️ Ubicació",
+          "url": "https://maps.google.com/?q=Vienna+State+Opera"
+        }
+      ]
+    },
+    {
+      "hora": "17:45",
+      "titol": "Cafè Sacher",
+      "descripcio": "Pausa per tastar la famosa Sacher Torte. A només 2 minuts de l'Òpera.",
+      "links": [
+        {
+          "text": "☕ Web oficial",
+          "url": "https://www.sacher.com/"
+        },
+        {
+          "text": "🗺️ Ruta",
+          "url": "https://maps.google.com/?q=Hotel+Sacher+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "18:30",
+      "titol": "Passeig pel Stadtpark",
+      "descripcio": "Passeig fins al parc, a uns 13 minuts caminant.",
+      "links": [
+        {
+          "text": "🗺️ Ruta",
+          "url": "https://maps.google.com/?q=Stadtpark+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "20:00",
+      "titol": "Sopar a Zum Schwarzen Kameel",
+      "descripcio": "Restaurant reservat. A uns 18 minuts caminant des del Stadtpark.",
+      "links": [
+        {
+          "text": "🍴 Reserva",
+          "url": "https://schwarzeskameel.at/shop/pub/kameel/"
+        },
+        {
+          "text": "🗺️ Ruta",
+          "url": "https://maps.google.com/?q=Zum+Schwarzen+Kameel+Vienna"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "dia": "7 d'agost · Divendres",
+  "ciutat": "Viena",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar a l'hotel."
+    },
+    {
+      "hora": "09:30",
+      "titol": "Palau Hofburg",
+      "descripcio": "Visita als Apartaments Imperials, Museu de Sissi i Col·lecció de Plata.",
+      "links": [
+        {
+          "text": "🎫 Entrades",
+          "url": "https://www.sisimuseum-hofburg.at/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Hofburg+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "13:00",
+      "titol": "Dinar",
+      "descripcio": "Restaurant al centre de Viena.",
+      "links": [
+        {
+          "text": "🍴 Restaurants propers",
+          "url": "https://maps.google.com/search/restaurants+near+Hofburg+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "15:00",
+      "titol": "Biblioteca Nacional Austríaca",
+      "descripcio": "Visita a la Sala d'Estat.",
+      "links": [
+        {
+          "text": "🌐 Web oficial",
+          "url": "https://www.onb.ac.at/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Austrian+National+Library+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "17:00",
+      "titol": "Stephansplatz i Kärntner Straße",
+      "descripcio": "Temps lliure per passejar i comprar.",
+      "links": [
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Stephansplatz+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "20:00",
+      "titol": "Sopar",
+      "descripcio": "Restaurant previst al planning."
+    }
+  ]
+},
+
+{
+  "dia": "8 d'agost · Dissabte",
+  "ciutat": "Viena",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar a l'hotel."
+    },
+    {
+      "hora": "09:00",
+      "titol": "Palau Belvedere",
+      "descripcio": "Visita al Belvedere Superior i les obres de Klimt.",
+      "links": [
+        {
+          "text": "🎫 Entrades",
+          "url": "https://www.belvedere.at/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Belvedere+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "12:30",
+      "titol": "Dinar",
+      "descripcio": "Restaurant prop del Belvedere.",
+      "links": [
+        {
+          "text": "🍴 Restaurants propers",
+          "url": "https://maps.google.com/search/restaurants+near+Belvedere+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "14:30",
+      "titol": "Karlskirche",
+      "descripcio": "Visita a una de les esglésies més espectaculars de Viena.",
+      "links": [
+        {
+          "text": "🌐 Web oficial",
+          "url": "https://www.karlskirche.at/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Karlskirche+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "16:30",
+      "titol": "Òpera Estatal de Viena",
+      "descripcio": "Visita guiada de l'Òpera.",
+      "links": [
+        {
+          "text": "🎫 Entrades",
+          "url": "https://www.wiener-staatsoper.at/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Vienna+State+Opera"
+        }
+      ]
+    },
+    {
+      "hora": "19:30",
+      "titol": "Passeig pel centre",
+      "descripcio": "Temps lliure per Kärntner Straße i Stephansplatz."
+    },
+    {
+      "hora": "20:30",
+      "titol": "Sopar",
+      "descripcio": "Restaurant previst al planning."
+    }
+  ]
+},
+
+{
+  "dia": "9 d'agost · Diumenge",
+  "ciutat": "Viena",
+  "activitats": [
+    {
+      "hora": "08:00",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar a l'hotel."
+    },
+    {
+      "hora": "09:30",
+      "titol": "Hundertwasserhaus",
+      "descripcio": "Passeig exterior i visita a la zona artística.",
+      "links": [
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Hundertwasserhaus+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "10:30",
+      "titol": "Kunst Haus Wien",
+      "descripcio": "Visita al museu dedicat a Friedensreich Hundertwasser.",
+      "links": [
+        {
+          "text": "🌐 Web oficial",
+          "url": "https://www.kunsthauswien.com/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Kunst+Haus+Wien"
+        }
+      ]
+    },
+    {
+      "hora": "13:00",
+      "titol": "Dinar",
+      "descripcio": "Restaurant prop del Prater.",
+      "links": [
+        {
+          "text": "🍴 Restaurants propers",
+          "url": "https://maps.google.com/search/restaurants+near+Prater+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "15:00",
+      "titol": "Prater i Wiener Riesenrad",
+      "descripcio": "Passeig pel parc i pujada a la nòria.",
+      "links": [
+        {
+          "text": "🎫 Web oficial",
+          "url": "https://www.praterwien.com/"
+        },
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Wiener+Riesenrad"
+        }
+      ]
+    },
+    {
+      "hora": "19:00",
+      "titol": "Passeig pel Danubi",
+      "descripcio": "Últim passeig abans de deixar Viena.",
+      "links": [
+        {
+          "text": "🗺️ Google Maps",
+          "url": "https://maps.google.com/?q=Donaukanal+Vienna"
+        }
+      ]
+    },
+    {
+      "hora": "20:30",
+      "titol": "Sopar",
+      "descripcio": "Restaurant previst al planning."
+    }
+  ]
+},
+
+{
+    "dia": "10 d'agost · Dilluns",
+    "ciutat": "Bratislava",
+    "activitats": [
+        {
+            "hora": "07:00",
+            "titol": "Amunt!",
+            "descripcio": "Preparar-se per sortir."
+        },
+        {
+            "hora": "07:45",
+            "titol": "Esmorzar",
+            "descripcio": "Esmorzar abans de marxar."
+        },
+        {
+            "hora": "08:30",
+            "titol": "Sortida cap a l'estació",
+            "descripcio": "Anar fins a Wien Hauptbahnhof per agafar el tren cap a Bratislava."
+        },
+        {
+            "hora": "09:15",
+            "titol": "Tren cap a Bratislava",
+            "descripcio": "Agafar un tren regional (REX) d'ÖBB. Comprar el Bratislava Ticket."
+        },
+        {
+            "hora": "10:15",
+            "titol": "Arribada a Bratislava",
+            "descripcio": "Arribada a l'estació Bratislava hl.st. (Hlavná Stanica)."
+        },
+        {
+            "hora": "10:30",
+            "titol": "Castell de Bratislava",
+            "descripcio": "Passeig pels jardins, exteriors i miradors amb vistes al Danubi."
+        },
+        {
+            "hora": "11:45",
+            "titol": "Baixada cap al centre",
+            "descripcio": "Passeig agradable des del castell fins al nucli antic."
+        },
+        {
+            "hora": "12:00",
+            "titol": "Catedral de Sant Martí",
+            "descripcio": "Visita exterior i interior si és oberta."
+        },
+        {
+            "hora": "12:30",
+            "titol": "Porta de Miquel",
+            "descripcio": "Passeig d'entrada al centre històric."
+        },
+        {
+            "hora": "12:45",
+            "titol": "Centre històric",
+            "descripcio": "Ajuntament, Plaça Major, Ajuntament Antic, Palau del Primat i carrers del centre."
+        },
+        {
+            "hora": "13:15",
+            "titol": "Dinar",
+            "descripcio": "Opció: Koliba Zamzik-Michalská o Roland Slovak Restaurant."
+        },
+        {
+            "hora": "15:30",
+            "titol": "Estàtua de Čumil",
+            "descripcio": "Fotos amb una de les escultures més famoses de Bratislava."
+        },
+        {
+            "hora": "16:30",
+            "titol": "Església Blava",
+            "descripcio": "Visita exterior i interior si és oberta."
+        },
+        {
+            "hora": "17:00",
+            "titol": "Passeig pel Danubi",
+            "descripcio": "Passeig fins a la zona del riu, entre el Pont SNP (UFO Bridge) i la plaça Hviezdoslavovo námestie."
+        },
+        {
+            "hora": "17:45",
+            "titol": "Camí cap a l'estació",
+            "descripcio": "Passeig fins a l'estació de tren."
+        },
+        {
+            "hora": "18:15",
+            "titol": "Tren cap a Viena",
+            "descripcio": "Sortida amb tren direcció Viena."
+        },
+        {
+            "hora": "19:15",
+            "titol": "Arribada a Viena",
+            "descripcio": "Arribada a l'estació de Viena."
+        },
+        {
+            "hora": "19:30",
+            "titol": "Tornada a l'hotel",
+            "descripcio": "Passeig fins a l'hotel."
+        },
+        {
+            "hora": "20:00",
+            "titol": "Sopar",
+            "descripcio": "Sopar i descans."
+        }
+    ]
+},
+
+{
+  "dia": "11 d'agost · Dimarts",
+  "ciutat": "Viena",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Amunt!",
+      "descripcio": "Començar el dia."
+    },
+    {
+      "hora": "08:15",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir."
+    },
+    {
+      "hora": "09:00",
+      "titol": "Museu Leopold o Museu Mumok",
+      "descripcio": "Anar al MuseumsQuartier (26 minuts a peu)."
+    },
+    {
+      "hora": "12:00",
+      "titol": "Edifici de la Secessió",
+      "descripcio": "Visita exterior de l'edifici i després caminar fins a Karlskirche (7 + 9 minuts a peu)."
+    },
+    {
+      "hora": "13:00",
+      "titol": "Dinar al Naschmarkt",
+      "descripcio": "Restaurant Papas, segons el planning."
+    },
+    {
+      "hora": "15:00",
+      "titol": "Passeig fins a la Rathaus",
+      "descripcio": "Caminada d'uns 25 minuts pel centre."
+    },
+    {
+      "hora": "16:00",
+      "titol": "Berenar al Café Central",
+      "descripcio": "Pausa per prendre alguna cosa."
+    },
+    {
+      "hora": "16:15",
+      "titol": "Últimes compres",
+      "descripcio": "Passejada pel centre i temps lliure."
+    },
+    {
+      "hora": "19:30",
+      "titol": "Sopar",
+      "descripcio": "Restaurant previst al planning."
+    }
+  ]
+},
+
+{
+  "dia": "12 d'agost · Dimecres",
+  "ciutat": "Praga",
+  "activitats": [
+    {
+      "hora": "08:00",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir de l'hotel."
+    },
+    {
+      "hora": "09:30",
+      "titol": "Anar a l'estació de tren",
+      "descripcio": "Caminar fins al metro, agafar la línia U1 direcció Alaudagasse o Oberlaa i baixar a Südtiroler Platz / Hauptbahnhof. Ruta aproximada de 15 minuts."
+    },
+    {
+      "hora": "10:39",
+      "titol": "Sortida del tren cap a Praga",
+      "descripcio": "Sortida segons el bitllet reservat."
+    },
+    {
+      "hora": "14:56",
+      "titol": "Arribada a Praga",
+      "descripcio": "Arribada a l'estació principal de Praga."
+    },
+    {
+      "hora": "15:00",
+      "titol": "Taxi fins a l'hotel",
+      "descripcio": "Agafar un Bolt o Uber fins a l'INNSiDE Prague Old Town. Trajecte d'uns 5 minuts."
+    },
+    {
+      "hora": "15:10",
+      "titol": "Check-in a l'hotel",
+      "descripcio": "Arribada i check-in a l'INNSiDE Prague Old Town."
+    },
+    {
+      "hora": "16:30",
+      "titol": "Ruta pel centre històric",
+      "descripcio": "Passeig des de la Torre de la Pólvora fins a la Casa Municipal."
+    },
+    {
+      "hora": "17:00",
+      "titol": "Plaça de la Ciutat Vella",
+      "descripcio": "Passejar pel carrer Celetná fins a la plaça, veure el Rellotge Astronòmic, l'Església de Týn i la zona històrica."
+    },
+    {
+      "hora": "18:00",
+      "titol": "Pont de Carles i Clementinum",
+      "descripcio": "Passejar pel Pont de Carles i veure l'exterior del Clementinum."
+    },
+    {
+      "hora": "19:00",
+      "titol": "Sopar",
+      "descripcio": "Restaurant Lokal Dlouhá."
+    },
+    {
+      "hora": "20:00",
+      "titol": "Tornada a l'hotel",
+      "descripcio": "Passeig d'uns 5 minuts fins a l'hotel."
+    }
+  ]
+},
+
+{
+  "dia": "13 d'agost · Dijous",
+  "ciutat": "Praga",
+  "activitats": [
+    {
+      "hora": "07:15",
+      "titol": "Amunt!",
+      "descripcio": "Començar el dia."
+    },
+    {
+      "hora": "08:00",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir."
+    },
+    {
+      "hora": "09:00",
+      "titol": "Anar al Free Tour",
+      "descripcio": "Caminar fins al punt d'inici del Free Tour. Ruta aproximada de 25 minuts."
+    },
+    {
+      "hora": "09:45",
+      "titol": "Free Tour",
+      "descripcio": "El Free Tour comença a la boca de metro de Malostranská."
+    },
+    {
+      "hora": "13:00",
+      "titol": "Dinar",
+      "descripcio": "Restaurant Vytopna (segons l'hora d'acabar el Free Tour)."
+    },
+    {
+      "hora": "15:30",
+      "titol": "Visita al Barri Nou",
+      "descripcio": "Passeig per la Plaça Wenceslau, Museu Nacional de Praga, Casa Dansant, Teatre Nacional i Plaça de Carles."
+    },
+    {
+      "hora": "18:45",
+      "titol": "Anar a Mala Strana",
+      "descripcio": "Passeig fins al barri de Mala Strana per sopar."
+    },
+    {
+      "hora": "19:00",
+      "titol": "Sopar",
+      "descripcio": "Restaurant Pork's. Reserva pendent de confirmar."
+    }
+  ]
+},
+
+{
+  "dia": "14 d'agost · Divendres",
+  "ciutat": "Praga",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir."
+    },
+    {
+      "hora": "09:30",
+      "titol": "Anar al Castell de Praga",
+      "descripcio": "Caminar fins al Castell (uns 33 minuts) i comprar les entrades a la taquilla."
+    },
+    {
+      "hora": "11:30",
+      "titol": "Carrer d'Or",
+      "descripcio": "Visitar primer el Carrer d'Or, ja que a primera hora hi ha menys gent."
+    },
+    {
+      "hora": "12:15",
+      "titol": "Castell de Praga",
+      "descripcio": "Continuar la visita del castell i veure el canvi de guàrdia."
+    },
+    {
+      "hora": "13:00",
+      "titol": "Dinar",
+      "descripcio": "Restaurant Kuchyň, dins del recinte del castell."
+    },
+    {
+      "hora": "17:00",
+      "titol": "Baixada cap a Malá Strana",
+      "descripcio": "Baixar pel carrer Nerudova fins a la plaça de Malá Strana."
+    },
+    {
+      "hora": "17:30",
+      "titol": "Passeig per Malá Strana",
+      "descripcio": "Visita de l'Església de Sant Nicolau, el Mur de John Lennon i l'Illa de Kampa."
+    },
+    {
+      "hora": "18:30",
+      "titol": "Jardí Vrtba",
+      "descripcio": "Visita als jardins barrocs i passeig pel carrer de Nový Svět."
+    },
+    {
+      "hora": "19:00",
+      "titol": "Sopar",
+      "descripcio": "Sopar al barri de Malá Strana abans del teatre."
+    },
+    {
+      "hora": "20:00",
+      "titol": "Teatre Negre",
+      "descripcio": "Funció al Image Black Light Theatre (The Best of Image)."
+    },
+    {
+      "hora": "21:30",
+      "titol": "Tornada a l'hotel",
+      "descripcio": "Passeig d'uns 21 minuts fins a l'hotel."
+    },
+    {
+      "hora": "22:00",
+      "titol": "Arribada a l'hotel",
+      "descripcio": "Final del dia."
+    }
+  ]
+},
+
+{
+  "dia": "15 d'agost · Dissabte",
+  "ciutat": "Karlovy Vary",
+  "activitats": [
+    {
+      "hora": "07:00",
+      "titol": "Amunt!",
+      "descripcio": "Preparar-se per a l'excursió a Karlovy Vary."
+    },
+    {
+      "hora": "07:45",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir."
+    },
+    {
+      "hora": "08:45",
+      "titol": "Anar a l'estació d'autobusos",
+      "descripcio": "Caminar uns 9 minuts fins a Praha Florenc."
+    },
+    {
+      "hora": "09:30",
+      "titol": "Sortida amb autobús",
+      "descripcio": "Autobús cap a Karlovy Vary. Arribada prevista a les 11:45."
+    },
+    {
+      "hora": "12:30",
+      "titol": "Dinar",
+      "descripcio": "Restaurant Beagle Lounge Karlovy Vary."
+    },
+    {
+      "hora": "13:30",
+      "titol": "Passeig pel centre històric",
+      "descripcio": "Visitar els edificis de colors i la Mlýnská kolonáda (Columnata del Molí)."
+    },
+    {
+      "hora": "14:00",
+      "titol": "Vřídelní kolonáda",
+      "descripcio": "Veure el guèiser d'aigua termal que arriba fins als 12 metres d'alçada."
+    },
+    {
+      "hora": "14:30",
+      "titol": "Tržní kolonáda",
+      "descripcio": "Passeig per la columnata del Mercat."
+    },
+    {
+      "hora": "15:00",
+      "titol": "Compres",
+      "descripcio": "Comprar les tradicionals tasses per tastar les aigües termals i records."
+    },
+    {
+      "hora": "15:30",
+      "titol": "Passeig per les zones comercials",
+      "descripcio": "Recórrer T. G. Masaryka, Stará Louka i Lázeňská i Vřídelní."
+    },
+    {
+      "hora": "17:30",
+      "titol": "Tornada a l'estació",
+      "descripcio": "Anar cap a l'estació d'autobusos de Karlovy Vary."
+    },
+    {
+      "hora": "18:00",
+      "titol": "Autobús cap a Praga",
+      "descripcio": "Sortida de Karlovy Vary."
+    },
+    {
+      "hora": "20:15",
+      "titol": "Arribada a Praga",
+      "descripcio": "Tornada a l'hotel."
+    },
+    {
+      "hora": "20:45",
+      "titol": "Sopar",
+      "descripcio": "Últim sopar del viatge."
+    }
+  ]
+},
+
+{
+  "dia": "16 d'agost · Diumenge",
+  "ciutat": "Praga",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de començar el dia."
+    },
+    {
+      "hora": "10:00",
+      "titol": "Museu Nacional de Praga",
+      "descripcio": "Visita al Museu Nacional de Praga."
+    },
+    {
+      "hora": "13:45",
+      "titol": "Dinar",
+      "descripcio": "Restaurant Vytopna (restaurant dels trens). Reserva a nom de Mònica."
+    },
+    {
+      "hora": "16:00",
+      "titol": "Cap giratori de Franz Kafka",
+      "descripcio": "Passeig fins a l'escultura de Franz Kafka (14 minuts a peu). El cap es posa en moviment cada hora en punt; l'últim moviment és a les 19:00."
+    },
+    {
+      "hora": "17:00",
+      "titol": "Centre Comercial Quadrio",
+      "descripcio": "Passeig i temps lliure pel centre comercial."
+    },
+    {
+      "hora": "18:00",
+      "titol": "Passatge Lucerna",
+      "descripcio": "Veure l'estàtua del Cavall de l'Inrevés i l'escultura de David Černý del sant patró Sant Wenceslau."
+    },
+    {
+      "hora": "18:30",
+      "titol": "Jazz Club Reduta",
+      "descripcio": "Passeig fins al famós Reduta Jazz Club."
+    },
+    {
+      "hora": "19:00",
+      "titol": "Església de la Mare de Déu de les Neus",
+      "descripcio": "Visita a l'església."
+    },
+    {
+      "hora": "19:30",
+      "titol": "Passeig per Na Příkopě",
+      "descripcio": "Passeig pel carrer Narodní i l'avinguda Na Příkopě, la principal zona comercial."
+    },
+    {
+      "hora": "20:00",
+      "titol": "Sopar",
+      "descripcio": "Sopar i descans."
+    }
+  ]
+},
+
+{
+  "dia": "17 d'agost · Dilluns",
+  "ciutat": "Kutná Hora",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir."
+    },
+    {
+      "hora": "08:30",
+      "titol": "Excursió a Kutná Hora",
+      "descripcio": "Sortida per a l'excursió a Kutná Hora."
+    },
+    {
+      "hora": "13:00",
+      "titol": "Temps lliure",
+      "descripcio": "Pendent de concretar al planning."
+    }
+  ]
+},
+
+{
+  "dia": "18 d'agost · Dimarts",
+  "ciutat": "Praga",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Amunt!",
+      "descripcio": "Començar el dia."
+    },
+    {
+      "hora": "08:30",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar abans de sortir."
+    },
+    {
+      "hora": "10:00",
+      "titol": "Museu Jueu de Praga",
+      "descripcio": "Visita al Barri Jueu: Sinagoga Espanyola, Sinagoga Pinkas, Sinagoga Maisel, Sinagoga Vella-Nova i Cementiri Antic Jueu."
+    },
+    {
+      "hora": "13:30",
+      "titol": "Dinar",
+      "descripcio": "Pausa per dinar."
+    },
+    {
+      "hora": "21:10",
+      "titol": "Temps lliure",
+      "descripcio": "Pendent de concretar al planning."
+    },
+    {
+      "hora": "00:20",
+      "titol": "Final del dia",
+      "descripcio": "Tornada a l'hotel."
+    }
+  ]
+},
+
+{
+  "dia": "19 d'agost · Dimecres",
+  "ciutat": "Praga",
+  "activitats": [
+    {
+      "hora": "07:30",
+      "titol": "Amunt!",
+      "descripcio": "Començar l'últim dia del viatge."
+    },
+    {
+      "hora": "09:00",
+      "titol": "Últim dia a Praga",
+      "descripcio": "Temps per visitar la ciutat segons el planning."
+    },
+    {
+      "hora": "13:00",
+      "titol": "Temps lliure",
+      "descripcio": "Pendent de concretar al planning."
+    },
+    {
+      "hora": "21:10",
+      "titol": "Final del dia",
+      "descripcio": "Preparatius per al final del viatge."
+    },
+    {
+      "hora": "00:20",
+      "titol": "Final de la jornada",
+      "descripcio": "Tornada a l'hotel."
+   }
+  ]
+}
+]
