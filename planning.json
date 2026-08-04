@@ -473,107 +473,268 @@
       "titol": "Sopar",
       "descripcio": "Sopar a ",
       "links": [{
-    "text": "web restaurant",
+    "text": "web restaurant, està a 1 minut d l'hotel",
     "url": "https://www.schachtelwirt.at/"
     
 
     }
   ]
 }
+  ]
+}
+
 ,
 {
   "dia": "10 d'agost · Dilluns",
   "ciutat": "Viena ➜ Bratislava",
   "activitats": [
     {
-      "hora": "07:30",
+      "hora": "07:45",
       "titol": "Esmorzar",
       "descripcio": "Esmorzar i check-out de l'hotel.",
       "links": []
     },
     {
-      "hora": "09:30",
+      "hora": "08:30",
       "titol": "Trasllat a l'estació",
       "descripcio": "Metro fins a Wien Hauptbahnhof.",
-      "links": []
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Hotel+Mercure+Vienna+First,+Desider-Friedmann-Platz+2,+1010+Wien,+Austria/Wien+Hauptbahnhof,+Am+Hbf+1,+1100+Wien,+Austria/@48.1983084,16.3543805,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07a18c554581:0xe93d6f0bcca458d4!2m2!1d16.3739362!2d48.2114301!1m5!1m1!1s0x476da9dbd63b4d51:0xa8827043db7157c8!2m2!1d16.3765973!2d48.1851873!3e3?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
-      "hora": "10:42",
+      "hora": "09:15",
       "titol": "Tren cap a Bratislava",
       "descripcio": "Viatge en tren fins a Bratislava.",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.oebb.at/en/regionale-angebote/ueberregionale-angebote/bratislava-ticket"
+
+    }]
+    },
+    {
+      "hora": "10:15",
+      "titol": "Arribada a Bratislava",
+      "descripcio": "Visitar.",
+      "links": [{
+    "text": "Ubicació",
+    "url": "https://www.google.com/maps/place/Bratislava+hl.st./@48.158639,17.1035769,17z/data=!4m10!1m2!2m1!1sestaci%C3%B3+central+de+Bratislava,+Bratislava+hl.st.+(Hlavn%C3%A1+Stanica)!3m6!1s0x476c89544b9c35cb:0xadf6f1e9014742ba!8m2!3d48.1586781!4d17.1062057!15sCkNlc3RhY2nDsyBjZW50cmFsIGRlIEJyYXRpc2xhdmEsIEJyYXRpc2xhdmEgaGwuc3QuIChIbGF2bsOhIFN0YW5pY2EpWkEiP2VzdGFjacOzIGNlbnRyYWwgZGUgYnJhdGlzbGF2YSBicmF0aXNsYXZhIGhsIHN0IGhsYXZuw6Egc3RhbmljYZIBDXRyYWluX3N0YXRpb26aASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTm9PUzAyYWpGUlJSQULgAQD6AQQIABAx!16s%2Fm%2F0271ssn?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+    {
+      "hora": "10:30",
+      "titol": "Castell",
+      "descripcio": "Visitar el castell.",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Bratislava+hl.st.,+N%C3%A1mestie+Franza+Liszta,+811+04+Star%C3%A9+Mesto,+Eslovaquia/Bratislavsk%C3%BD+Hrad,+Hrad,+811+06+Bratislava,+Eslovaquia/@48.1501431,17.0923738,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476c89544b9c35cb:0xadf6f1e9014742ba!2m2!1d17.1062057!2d48.1586781!1m5!1m1!1s0x476c895d93b150c5:0x2fd320efbc06a139!2m2!1d17.1002348!2d48.1421086!3e2?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+    {
+      "hora": "11:30",
+      "titol": "Baixada cap al centre.",
+      "descripcio": "Baixar caminant del castell cap al nucli antic. És un passeig agradable.  ",
       "links": []
     },
     {
       "hora": "12:00",
-      "titol": "Arribada a Bratislava",
-      "descripcio": "Trasllat fins a l'hotel i check-in.",
-      "links": []
+      "titol": "Catedral de Sant Martí",
+      "descripcio": "Visita exterior i si està oberta, una visita interior).",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Bratislavsk%C3%BD+Hrad,+Hrad,+811+06+Bratislava,+Eslovaquia/Catedral+de+San+Mart%C3%ADn,+Rudnayovo+n%C3%A1mestie+1,+811+01+Bratislava,+Eslovaquia/@48.1416353,17.1002762,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476c895d93b150c5:0x2fd320efbc06a139!2m2!1d17.1002348!2d48.1421086!1m5!1m1!1s0x476c895d4547c49f:0xc7df5e7779db1add!2m2!1d17.1047576!2d48.1420513!3e2?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
-      "hora": "13:30",
-      "titol": "Dinar",
-      "descripcio": "Dinar al centre històric.",
-      "links": []
+      "hora": "12:30",
+      "titol": "Porta de Miquel",
+      "descripcio": "(passegeu per aquesta zona i entreu al cor del nucli antic).",
+      "links": [{
+    "text": "Ruta a 6 minuts",
+    "url": "https://www.google.com/maps/dir/Catedral+de+San+Mart%C3%ADn,+Rudnayovo+n%C3%A1mestie+1,+811+01+Bratislava,+Eslovaquia/Michalsk%C3%A1+br%C3%A1na,+Michalsk%C3%A1+22,+811+01+Bratislava,+Eslovaquia/@48.1436047,17.1031838,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476c895d4547c49f:0xc7df5e7779db1add!2m2!1d17.1047576!2d48.1420513!1m5!1m1!1s0x476c89006e85bedf:0xa0184fafbc343440!2m2!1d17.1067314!2d48.1451796!3e2?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
-      "hora": "15:00",
-      "titol": "Centre històric",
-      "descripcio": "Passeig per la Porta de Sant Miquel, plaça Major, Catedral de Sant Martí i carrers del centre.",
-      "links": []
+      "hora": "12:45",
+      "titol": "Ajuntament",
+      "descripcio": "Centre històric (passeig per Plaça Major, Ajuntament Antic, Palau del Primat i carrers del centre) ",
+      "links": [{
+    "text": "Ruta a 4 minuts",
+    "url": "https://www.google.com/maps/dir/Michael's+Gate,+Michalsk%C3%A1+22,+811+01+Bratislava,+Eslov%C3%A0quia/Old+Town+Hall,+Primaci%C3%A1lne+n%C3%A1mestie+3,+811+01+Star%C3%A9+Mesto,+Eslov%C3%A0quia/@48.1442792,17.1066728,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476c89006e85bedf:0xa0184fafbc343440!2m2!1d17.1067314!2d48.1451796!1m5!1m1!1s0x476c8943264c3a01:0xd9bae732d6748e6!2m2!1d17.1091937!2d48.1439069!3e2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
-      "hora": "18:30",
-      "titol": "Castell de Bratislava",
-      "descripcio": "Pujar fins al castell per gaudir de les vistes sobre la ciutat i el Danubi.",
-      "links": []
+      "hora": "13:15",
+      "titol": "Dinar al centre històric",
+      "descripcio": "Centre històric (passeig per Plaça Major, Ajuntament Antic, Palau del Primat i carrers del centre).1a opció: Koliba Zamzik-Michalská (provar el bryndzové halusky). o el restaurant Roland Slovak Restaurant a la Plaça Major.  ",
+      "links": [
+    {
+    "text": "Menu",
+    "url": "https://michalska.kamzik.sk/en/"
+
+    },
+  {
+    "text": "Ruta a 5 minuts a peu",
+    "url": "https://www.google.com/maps/place/Michalsk%C3%A1+387%2F16,+811+01+Bratislava,+Eslov%C3%A0quia/@48.1442624,17.1066749,18z/data=!4m22!1m15!4m14!1m6!1m2!1s0x476c8943264c3a01:0xd9bae732d6748e6!2sOld+Town+Hall,+Primaci%C3%A1lne+n%C3%A1mestie+3,+811+01+Star%C3%A9+Mesto,+Eslov%C3%A0quia!2m2!1d17.1091937!2d48.1439069!1m5!1m1!2zNDjCsDA4JzQxLjMiTiAxN8KwMDYnMjQuNyJF!2m2!1d17.1068611!2d48.1448056!3e2!3m5!1s0x476c895cc40ee9cf:0x4be4f6538edb4f73!8m2!3d48.1447957!4d17.106851!16s%2Fg%2F11c21kwkh4?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
-      "hora": "20:00",
-      "titol": "Sopar",
-      "descripcio": "Sopar al centre de Bratislava.",
-      "links": []
-    }
+      "hora": "15:30",
+      "titol": "Estàtua de Cumil ",
+      "descripcio": "Centre històric (passeig per Plaça Major, Ajuntament Antic, Palau del Primat i carrers del centre).1a opció: Koliba Zamzik-Michalská (provar el bryndzové halusky). o el restaurant Roland Slovak Restaurant a la Plaça Major.  ",
+
+      "links": [
+   
+  {
+    "text": "Ruta a 4 minuts a peu",
+    "url": "https://www.google.com/maps/place/%C4%8Cumil+Statue/@48.1438339,17.1051833,17z/data=!4m22!1m15!4m14!1m5!1m1!2zNDjCsDA4JzQxLjMiTiAxN8KwMDYnMjQuNyJF!2m2!1d17.1068611!2d48.1448056!1m6!1m2!1s0x476c8942e82d7b25:0x21d59b78c7ac5eb4!2s%C4%8Cumil+Statue,+Pansk%C3%A1+251%2F1,+811+01+Bratislava,+Eslov%C3%A0quia!2m2!1d17.1088427!2d48.1428677!3e2!3m5!1s0x476c8942e82d7b25:0x21d59b78c7ac5eb4!8m2!3d48.1428677!4d17.1088427!16s%2Fg%2F1218rzcw?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+    {
+      "hora": "16:30",
+      "titol": "Església Blava",
+      "descripcio": "Església Blava (És curiosa i diferent. Veure-la per fora i si està obertar, entrar)",
+
+      "links": [
+   
+  {
+    "text": "Ruta a 11 minuts a peu",
+    "url": "https://www.google.com/maps/place/%C4%8Cumil+Statue/@48.143806,17.1104037,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x476c8942e82d7b25:0x21d59b78c7ac5eb4!2s%C4%8Cumil+Statue,+Pansk%C3%A1+251%2F1,+811+01+Bratislava,+Eslov%C3%A0quia!2m2!1d17.1088427!2d48.1428677!1m6!1m2!1s0x476c8941051a8fd9:0x4df6484855bfbe36!2sThe+Blue+Church+-+Church+of+St.+Elizabeth,+Bezru%C4%8Dova+2,+811+09+Bratislava,+Eslov%C3%A0quia!2m2!1d17.1169342!2d48.1434028!3e2!3m5!1s0x476c8942e82d7b25:0x21d59b78c7ac5eb4!8m2!3d48.1428677!4d17.1088427!16s%2Fg%2F1218rzcw?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+{
+      "hora": "17:00",
+      "titol": "PAsseig pel Danubi",
+      "descripcio": "Tornar cap a la zona del riu i fer un passeig tranquil. la part més agradable del Danubi és la que queda entre el Pont SNP (UFO Bridge) i la plaça Hviezdoslavovo námestie. És molt a prop del centre històric i hi ha un passeig ampli, bancs, terrasses i molt bones vistes.",
+      "links": [
+   
+  {
+    "text": "Ruta a 11 minuts a peu",
+    "url": "https://www.google.com/maps/place/%C4%8Cumil+Statue/@48.1404645,17.1042695,17z/data=!4m22!1m15!4m14!1m6!1m2!1s0x476c8941051a8fd9:0x4df6484855bfbe36!2sThe+Blue+Church+-+Church+of+St.+Elizabeth,+Bezru%C4%8Dova+2,+811+09+Bratislava,+Eslov%C3%A0quia!2m2!1d17.1169342!2d48.1434028!1m5!1m1!2s48.1398,+17.1047!2m2!1d17.1047!2d48.1398!3e2!3m5!1s0x476c8942e82d7b25:0x21d59b78c7ac5eb4!8m2!3d48.1428677!4d17.1088427!16s%2Fg%2F1218rzcw?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+    {
+      "hora": "17:45",
+      "titol": "Tornar a l'estació",
+      "descripcio": "Tornar cap estació. agafar tren direcció a Viena a les 18:15h i arribada a les 19:15h",
+      "links": [
+   
+  {
+    "text": "Ruta a 34 minuts a peu",
+    "url": "https://www.google.com/maps/place/%C4%8Cumil+Statue/@48.1492529,17.0984607,15z/data=!4m22!1m15!4m14!1m5!1m1!2s48.1398,+17.1047!2m2!1d17.1047!2d48.1398!1m6!1m2!1s0x476c89544b9c35cb:0xadf6f1e9014742ba!2sBratislava+hl.st.,+N%C3%A1mestie+Franza+Liszta,+811+04+Star%C3%A9+Mesto,+Eslov%C3%A0quia!2m2!1d17.1062057!2d48.1586781!3e2!3m5!1s0x476c8942e82d7b25:0x21d59b78c7ac5eb4!8m2!3d48.1428677!4d17.1088427!16s%2Fg%2F1218rzcw?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+
+{
+      "hora": "19:30",
+      "titol": "anar a hotel",
+      "descripcio": "Sopar a prop de l'hotel o a Ajuntament",
+      "links": [
+   
+  {
+    "text": "Ruta a 16 minuts a peu",
+    "url": "https://www.google.com/maps/dir/Wien+Hauptbahnhof,+Am+Hbf+1,+1100+Wien,+%C3%80ustria/Hotel+Mercure+Vienna+First,+Desider-Friedmann-Platz+2,+1010+Wien,+%C3%80ustria/@48.1984024,16.3591086,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476da9dbd63b4d51:0xa8827043db7157c8!2m2!1d16.3765973!2d48.1851873!1m5!1m1!1s0x476d07a18c554581:0xe93d6f0bcca458d4!2m2!1d16.3739362!2d48.2114301!3e3?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+  }]
+}
+
   ]
 }
 ,
 {
   "dia": "11 d'agost · Dimarts",
-  "ciutat": "Bratislava ➜ Praga",
+  "ciutat": "Viena. Museus Quartier Naschmarkt Cafe Central",
   "activitats": [
     {
       "hora": "07:30",
-      "titol": "Esmorzar",
+      "titol": "Amunt!",
       "descripcio": "Esmorzar a l'hotel i check-out.",
+      "links": []
+    },
+     {
+      "hora": "08:15",
+      "titol": "Esmorzar",
+      "descripcio": "Esmorzar",
       "links": []
     },
     {
       "hora": "09:00",
-      "titol": "Trasllat a l'estació",
-      "descripcio": "Anar fins a l'estació central de Bratislava.",
-      "links": []
+      "titol": "Anar als museus Quartier",
+      "descripcio": "Museu Leopold o ",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Hotel+Mercure+Vienna+First,+Desider-Friedmann-Platz+2,+1010+Wien,+%C3%80ustria/Museu+Leopold,+Museumsplatz+1,+1070+Wien,+%C3%80ustria/@48.2066543,16.361374,16z/data=!3m2!4b1!5s0x476d079047537319:0x6d5df1af99aefca0!4m14!4m13!1m5!1m1!1s0x476d07a18c554581:0xe93d6f0bcca458d4!2m2!1d16.3739362!2d48.2114301!1m5!1m1!1s0x476d079018453103:0x212bdc6b259a623a!2m2!1d16.3591421!2d48.2026499!3e2?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
-      "hora": "09:58",
-      "titol": "Tren cap a Praga",
-      "descripcio": "Viatge en tren fins a Praga.",
-      "links": []
+      "hora": "12:00",
+      "titol": "Secessió de Viena",
+      "descripcio": "7min a peu.",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Museumsquartier,+1070+Wien,+Austria/Secesi%C3%B3n+de+Viena,+Friedrichstra%C3%9Fe+12,+1010+Wien,+Austria/@48.2022265,16.3606375,16.25z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07903eeb4fdf:0x94d429b3eb41ebff!2m2!1d16.3586166!2d48.2033369!1m5!1m1!1s0x476d0784af96d167:0xf63b1af186007205!2m2!1d16.3657857!2d48.2005106!3e3?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
     },
     {
-      "hora": "14:00",
-      "titol": "Arribada a Praga",
-      "descripcio": "Trasllat a l'hotel i check-in.",
-      "links": []
+    "text": "Ruta  Karlskirche",
+    "url": "https://www.google.com/maps/dir/Secesi%C3%B3n+de+Viena,+Friedrichstra%C3%9Fe+12,+1010+Wien,+Austria/Iglesia+De+San+Carlos+Borromeo,+Karlskirche,+Karlsplatz+10,+1040+Wien,+Austria/@48.2022265,16.3606375,16.25z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d0784af96d167:0xf63b1af186007205!2m2!1d16.3657857!2d48.2005106!1m5!1m1!1s0x476d078282166ac7:0xceaba5bcdc66f532!2m2!1d16.3716999!2d48.1985626!3e3?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }
+  ]
+    },
+    {
+      "hora": "13:00",
+      "titol": "Dinar per Naschmarkt",
+      "descripcio": "A 10min",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Iglesia+De+San+Carlos+Borromeo,+Karlskirche,+Karlsplatz+10,+1040+Wien,+Austria/Naschmarkt,+Wien,+Austria/@48.1985829,16.3636516,16z/data=!3m2!4b1!5s0x476d079f9dbbb573:0x1d6dc1f6c15851df!4m14!4m13!1m5!1m1!1s0x476d078282166ac7:0xceaba5bcdc66f532!2m2!1d16.3716999!2d48.1985626!1m5!1m1!1s0x476d07845fa20c53:0x5bac0b876856cbe!2m2!1d16.3636494!2d48.1986178!3e2?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    },
+    {
+    "text": "Papas",
+    "url": "https://papas-am-naschmarkt.eatbu.com/?lang=es"
+
+    },
+   {
+    "text": "Menú",
+    "url": "https://cdn.website.dish.co/media/d5/fb/9926895/Menu-1.pdf"
+
+    },
+   {
+    "text": "Adreça",
+    "url": "https://www.google.com/maps/place/Naschmarkt+509,+1060+Wien,+%C3%80ustria/@48.198735,16.3609429,17z/data=!3m1!4b1!4m5!3m4!1s0x476d07845f5830a7:0x41d949e5c25455ee!8m2!3d48.1987315!4d16.3635178?authuser=0&entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }  
+  ]
+    },
+    {
+      "hora": "15:00",
+      "titol": "Anar cap al centre.",
+      "descripcio": "Primer passeig pel centre històric, rellotge astronòmic i carrers del voltant.",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Naschmarkt,+Wien,+Austria/Rathausplatz,+Rathauspl.,+1010+Wien,+Austria/@48.2046633,16.3511429,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07845fa20c53:0x5bac0b876856cbe!2m2!1d16.3636494!2d48.1986178!1m5!1m1!1s0x476d07966dc3b145:0x1e7a761d819e68fa!2m2!1d16.3587554!2d48.2106456!3e2?entry=ttu&g_ep=EgoyMDI2MDcyMi4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
     },
     {
       "hora": "16:00",
-      "titol": "Plaça de la Ciutat Vella",
-      "descripcio": "Primer passeig pel centre històric, rellotge astronòmic i carrers del voltant.",
-      "links": []
-    },
-    {
-      "hora": "20:00",
-      "titol": "Sopar",
-      "descripcio": "Restaurant al centre històric.",
+      "titol": "Anar a cafe Central a berenar.",
+      "descripcio": "Berenar.",
       "links": []
     }
   ]
@@ -589,34 +750,88 @@
       "links": []
     },
     {
-      "hora": "09:00",
-      "titol": "Castell de Praga",
-      "descripcio": "Visita al castell, Catedral de Sant Vito, Antic Palau Reial i Carreró d'Or.",
+      "hora": "09:30",
+      "titol": "Estació tren.",
+      "descripcio": "Tren.",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Hotel+Mercure+Vienna+First,+Desider-Friedmann-Platz+2,+1010+Wien,+%C3%80ustria/Vienna+Central+Station,+Am+Hbf+1,+1100+Wien,+%C3%80ustria/@48.1985546,16.3588868,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x476d07a18c554581:0xe93d6f0bcca458d4!2m2!1d16.3739362!2d48.2114301!1m5!1m1!1s0x476da9dbd63b4d51:0xa8827043db7157c8!2m2!1d16.3765973!2d48.1851873!3e3?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+
+    }]
+    },
+    {
+      "hora": "10:39",
+      "titol": "Tickets",
+      "descripcio": "Tickets.",
+      "links": [{
+    "text": "Tickets",
+    "url": "https://1drv.ms/b/c/ab1171968f619304/IQAG_mHvsbpNR6YpGaOLoEXXAc9YfSmOMOHvauPWhO5oosM?e=Fx2EhV"
+
+    }]
+    },
+    {
+      "hora": "14:56",
+      "titol": "Arribada a Praga",
+      "descripcio": "Arribem!!!.",
       "links": []
     },
     {
-      "hora": "13:30",
-      "titol": "Dinar",
-      "descripcio": "Dinar a prop del castell.",
+      "hora": "15:00",
+      "titol": "Agafar taxi- Uber.",
+      "descripcio": "Preu aproximat: Entre 120 i 200 CZK (uns 5 € - 8 € en total pel cotxe sencer), depenent de la demanda.",
       "links": []
     },
     {
-      "hora": "15:30",
-      "titol": "Malá Strana",
-      "descripcio": "Passeig pel barri de Malá Strana i l'Església de Sant Nicolau.",
-      "links": []
+      "hora": "15:10",
+      "titol": "Arribada a l'hotel",
+      "descripcio": "Check-in.",
+      "links": [{
+    "text": "Reserva",
+    "url": "https://1drv.ms/u/c/ab1171968f619304/IQAQwKbAZEpnQauVZ2g4pRCtAUfrZQxkXrROHmHt6dxdtF8?e=3ZZb36"
+
     },
     {
-      "hora": "17:30",
-      "titol": "Pont de Carles",
-      "descripcio": "Creuar el pont i gaudir de les vistes del riu Moldava.",
-      "links": []
+    "text": "Ubicació",
+    "url": "https://www.google.com/maps/place/INNSiDE+by+Meli%C3%A1+Prague+Old+Town/@50.0915664,14.4284571,17z/data=!3m1!4b1!4m6!3m5!1s0x470b94c01360f07d:0x62e91409723b5b91!8m2!3d50.091563!4d14.431032!16s%2Fg%2F11xg4yg8h?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+
+    }
+  ]
+    },
+    {
+      "hora": "16:30",
+      "titol": "Torre de la Polvora   ",
+      "descripcio": "Sortida de l'hotel i Torre de la Pólvora: Camina uns 5 minuts fins a la Torre de la Pólvora (Prašná brána), La preciosa Casa Municipal (Obecní dům). - ruta, 2 minuts.És el punt d'inici de l'antiga Ruta Reial. Plaça de la Ciutat Vella: Segueix el carrer Celetná (peronitzat) fins a arribar a la gran plaça. Aquí podràs admirar l'Imponent Rellotge Astronòmic (intenta veure l'espectacle de les figures quan canviï l'hora en punt), l'església de Týn i l'estàtua de Jan Hus. - ruta, 8 minuts. Passeig cap al Pont de Carles: Des de la plaça, camina pels carrerons medievals fins al Pont de Carles (Karlův most). Creuar-lo a l'hora de la posta de sol, amb els llums de la ciutat i el Castell de Praga il·luminat al fons, és una de les millors experiències gratuïtes de la ciutat. - ruta, 8 minuts. Clementinium (Visitar per fora)",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/INNSiDE+by+Meli%C3%A1+Prague+Old+Town,+Soukenick%C3%A1+25,+110+00+Petrsk%C3%A1+%C4%8Dtvr%C5%A5,+Tx%C3%A8quia/The+Powder+Tower,+N%C3%A1m.+Republiky+5,+110+00+Star%C3%A9+M%C4%9Bsto,+Tx%C3%A8quia/@50.0893812,14.4267026,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x470b94c01360f07d:0x62e91409723b5b91!2m2!1d14.431032!2d50.091563!1m5!1m1!1s0x470b94eb050ff205:0x9349b85fec4613a6!2m2!1d14.4277887!2d50.087273!3e2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+      }
+    
+  ]
+    },
+
+    {
+      "hora": "19:00",
+      "titol": "Sopar",
+      "descripcio": "Anar al restaurant Lokal Dlouha https://lokal-dlouha.ambi.cz/cz/ ruta, des del pont són 16 minuts. ",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Pont+de+Carles,+Karl%C5%AFv+most,+110+00+Praha+1,+Tx%C3%A8quia/Lok%C3%A1l+Dlouh%C3%A1%C3%A1%C3%A1,+Dlouh%C3%A1+33,+110+00+Star%C3%A9+M%C4%9Bsto,+Tx%C3%A8quia/@50.0883697,14.4204501,16z/data=!3m1!5s0x470b94eb1cc5a869:0x9cbbcc99a180ba4a!4m14!4m13!1m5!1m1!1s0x470b94e5e58eb59f:0x75209738d1d3b126!2m2!1d14.4114366!2d50.0864771!1m5!1m1!1s0x470b94c1fb7e6819:0x2ddafe533906ce2!2m2!1d14.4257574!2d50.0906931!3e2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+    },
+    {
+    "text": "Reserva",
+    "url": "https://1drv.ms/u/c/ab1171968f619304/IQBmM9D5boc1SaajfttrIEupASH_vQcaOQ8FfidlFkAoSRA?e=djUNfM"
+    }
+  ]
     },
     {
       "hora": "20:00",
-      "titol": "Sopar",
-      "descripcio": "Restaurant al centre de Praga.",
-      "links": []
+      "titol": "Tronar a hotel",
+      "descripcio": "són 5 minuts",
+      "links": [{
+    "text": "Ruta",
+    "url": "https://www.google.com/maps/dir/Lok%C3%A1l+Dlouh%C3%A1%C3%A1%C3%A1,+Dlouh%C3%A1+33,+110+00+Star%C3%A9+M%C4%9Bsto,+Tx%C3%A8quia/INNSiDE+by+Meli%C3%A1+Prague+Old+Town,+Soukenick%C3%A1+25,+110+00+Petrsk%C3%A1+%C4%8Dtvr%C5%A5,+Tx%C3%A8quia/@50.0911048,14.4271094,18z/data=!3m2!4b1!5s0x470b94eb1cc5a869:0x9cbbcc99a180ba4a!4m14!4m13!1m5!1m1!1s0x470b94c1fb7e6819:0x2ddafe533906ce2!2m2!1d14.4257574!2d50.0906931!1m5!1m1!1s0x470b94c01360f07d:0x62e91409723b5b91!2m2!1d14.431032!2d50.091563!3e2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
+    }
+  ]
     }
   ]
 },
@@ -909,3 +1124,7 @@
     }
   ]
 }
+  
+]
+
+
